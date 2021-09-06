@@ -1,0 +1,5 @@
+Manifest-Version: 2.0.2
+Specification-Vendor: INDIForJava
+Name: org/indilib/i4j/server
+Specification-Title: INDIForJava-server
+Specification-Version: 2.0.2
